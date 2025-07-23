@@ -1,16 +1,17 @@
-# goldmark_logistic
+Тестовое задание — Flutter склад
 
-A new Flutter project.
+Приложение на Flutter для управления складом. Реализовано по тестовому заданию от [Upwards Digital].
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+Как запустить
 
-A few resources to get you started if this is your first Flutter project:
+1. Убедитесь, что у вас установлен Flutter SDK: https://flutter.dev/docs/get-started/install
+2. Откройте редактор кода (VS Code или Android Studio)
+3. Скачайте ZIP-архив проекта и распакуйте его
+4. Откройте проект в редакторе кода
+5. В терминале выполните:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
