@@ -104,7 +104,7 @@ class InfoItemWidget extends StatelessWidget {
                     width: 12,
                     height: 12,
                     decoration: BoxDecoration(
-                      color: isRed ? Colors.red : Colors.white,
+                      color: isRed ? Colors.red : Colors.transparent,
                       borderRadius: BorderRadius.circular(60),
                     ),
                   ),
